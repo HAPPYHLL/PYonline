@@ -190,4 +190,4 @@ PY笔记
     6.删除位值：del a[3],  
              print(a)
     7.弹出：b=a.pop(),默认弹出最后元素并使用，a.pop(2) or b=a.pop(2)，弹出第三位。
-    8.删除值：a.remove('ducati')  
+    8.删除值：a.remove('ducati')   

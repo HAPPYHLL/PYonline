@@ -10,4 +10,4 @@ name = ['张三', '李四', '王五', '赵六', '前妻',]
     #         print(i)
     #     break
 name.pop()
-print(name)  
+print(name)   
